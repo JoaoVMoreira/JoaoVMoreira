@@ -1,10 +1,7 @@
-### Olá! Meu nome é João Vittor Moreira!
-
 <div align="center">
-  <a href="https://github.com/JoaoVMoreira/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVMoreira&show_icons=True&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVMoreira&layout=compact&langs_count=7&theme=midnight-purple"/>
+	<h1>Olá! Meu nome é João Vittor Moreira!</h1>
 </div>
+<br/><br/>
 <div align="center">
   <h2> 🖥️ Hard skills </h2>
   
@@ -50,5 +47,13 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
+</div>
+
+<div align="center">
+  <h2> ⚙️Analytics </h2>
+
+  <a href="https://github.com/JoaoVMoreira/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVMoreira&show_icons=True&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVMoreira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
