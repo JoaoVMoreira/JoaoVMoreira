@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Olá! Meu nome é João Vittor Moreira!</h1>
+	<h1>Hi! My name is João Moreira!</h1>
 </div>
 <br/><br/>
 <div align="center">
