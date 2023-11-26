@@ -57,11 +57,8 @@
   	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hootanht&layout=compact&theme=material-palenight&langs_count=12" />
  	 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hootanht&show_icons=true&include_all_commits=true&theme=material-palenight" />
  	</a>
- 	 <a>
-    		<img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hootanht&layout=compact" alt="hootanht's WakaTime" />
- 	 </a>
-	  <a>
-	 	 <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hootanht&theme=material-palenight" alt="hootanht's Github Steak" />
-	  </a>
+	<a>
+		<img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hootanht&theme=material-palenight" alt="hootanht's Github Steak" />
+	</a>
 </p>
 </div>
