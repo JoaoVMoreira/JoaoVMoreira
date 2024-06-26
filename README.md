@@ -3,7 +3,6 @@
 	<p>💻 Desenvolvedor Back-End</p>
 	<p>📍 São Paulo, Brasil</p>
 </div>
-<br/>
 <div align="center">
   <h2> 🖥️ Hard skills </h2>
 	
